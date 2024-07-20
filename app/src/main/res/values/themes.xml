@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.YassirMovieApp" parent="android:Theme.Material.Light.NoActionBar">
+<!--    These lines can be removed because we add it in MainActivity using kotlin code   -->
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+</resources>
